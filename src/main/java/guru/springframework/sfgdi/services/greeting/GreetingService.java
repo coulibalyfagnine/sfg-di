@@ -1,4 +1,4 @@
-package guru.springframework.sfgdi.services;
+package guru.springframework.sfgdi.services.greeting;
 
 /**
  * Created by jt on 12/26/19.

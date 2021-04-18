@@ -1,6 +1,12 @@
 package guru.springframework.sfgdi;
 
 import guru.springframework.sfgdi.controllers.*;
+import guru.springframework.sfgdi.controllers.greeting.ConstructorInjectedController;
+import guru.springframework.sfgdi.controllers.greeting.I18nController;
+import guru.springframework.sfgdi.controllers.greeting.MyController;
+import guru.springframework.sfgdi.controllers.greeting.PropertyInjectedController;
+import guru.springframework.sfgdi.controllers.greeting.SetterInjectedController;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
